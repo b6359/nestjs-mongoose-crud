@@ -1,5 +1,3 @@
-# nestjs-mongoose-crud
-
 # **NestJS Mongoose CRUD**
 
 This repository contains a RESTful API built with **NestJS** and **Mongoose** to demonstrate CRUD (Create, Read, Update, Delete) operations for managing resources such as products. The project follows best practices for building scalable and maintainable applications.
